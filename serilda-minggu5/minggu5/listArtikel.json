@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "nim": 1741720177,
+      "nama": "Serilda Wahyu",
+      "alamat": "Mojokerto",
+      "hp": "08575506999",
+      "angkatan": 2017,
+      "status": "aktif"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
