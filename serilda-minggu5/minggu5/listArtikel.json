@@ -1,12 +1,22 @@
 {
   "posts": [
     {
+      "id": 1,
       "nim": 1741720177,
       "nama": "Serilda Wahyu",
       "alamat": "Mojokerto",
-      "hp": "08575506999",
+      "hp": "085755069999",
       "angkatan": 2017,
       "status": "aktif"
+    },
+    {
+      "id": 2,
+      "nim": 174172000,
+      "nama": "Cerildawn",
+      "alamat": "malang",
+      "hp": "082125424122",
+      "angkatan": 2016,
+      "status": "tidak aktif"
     }
   ],
   "comments": [],
